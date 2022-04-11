@@ -22,6 +22,7 @@ namespace testlinq
         {
             Application.Exit();
         }
+        //NEK
     
         private void button_log_Click(object sender, EventArgs e)
         {
